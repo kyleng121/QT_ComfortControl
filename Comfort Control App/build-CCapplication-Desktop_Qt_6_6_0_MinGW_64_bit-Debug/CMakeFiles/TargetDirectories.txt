@@ -1,9 +1,0 @@
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/CCapplication.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/CCapplication_autogen_timestamp_deps.dir
-D:/QT/Comfort Control App/build-CCapplication-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/CCapplication_autogen.dir
